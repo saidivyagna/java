@@ -1,0 +1,99 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "vs_53efa467"
+        },
+        {
+            "type": "java",
+            "name": "Throw",
+            "request": "launch",
+            "mainClass": "Throw",
+            "projectName": "vs_53efa467"
+        },
+        {
+            "type": "java",
+            "name": "Catch",
+            "request": "launch",
+            "mainClass": "Catch",
+            "projectName": "vs_53efa467"
+        },
+        {
+            "type": "java",
+            "name": "Try",
+            "request": "launch",
+            "mainClass": "Try",
+            "projectName": "vs_53efa467"
+        },
+        {
+            "type": "java",
+            "name": "Insertingzeros",
+            "request": "launch",
+            "mainClass": "Insertingzeros",
+            "projectName": "vs_53efa467"
+        },
+        {
+            "type": "java",
+            "name": "Inserting0",
+            "request": "launch",
+            "mainClass": "Inserting0",
+            "projectName": "vs_53efa467"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance2",
+            "request": "launch",
+            "mainClass": "Inheritance2",
+            "projectName": "vs_53efa467"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance1",
+            "request": "launch",
+            "mainClass": "Inheritance1",
+            "projectName": "vs_53efa467"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Inheritance",
+            "projectName": "vs_53efa467"
+        },
+        {
+            "type": "java",
+            "name": "Matrixobj",
+            "request": "launch",
+            "mainClass": "Matrixobj",
+            "projectName": "vs_53efa467"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "vs_53efa467"
+        },
+        {
+            "type": "java",
+            "name": "Class2",
+            "request": "launch",
+            "mainClass": "Class2",
+            "projectName": "vs_53efa467"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
